@@ -1,4 +1,4 @@
-TEAM,H/A,PTS,SCORE,,,PTS,OPPONENT,W/D/L,DATE
+TEAM,H/A,TEAM_PTS,TEAM_SCORE,SEP,OPP_SCORE,OPP_PTS,OPPONENT,RESULT,DATE
 Birmingham City FC,H,1,1,-,1,1,Ipswich Town FC,D,'08/08/2025
 Birmingham City FC,A,4,2,-,1,3,Blackburn Rovers FC,W,'08/16/2025
 Birmingham City FC,H,7,1,-,0,4,Oxford United FC,W,'08/23/2025

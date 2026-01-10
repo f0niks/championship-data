@@ -1,4 +1,4 @@
-TEAM,H/A,PTS,SCORE,,,PTS,OPPONENT,W/D/L,DATE
+TEAM,H/A,TEAM_PTS,TEAM_SCORE,SEP,OPP_SCORE,OPP_PTS,OPPONENT,RESULT,DATE
 Ipswich Town FC,A,1,1,-,1,1,Birmingham City FC,D,'08/08/2025
 Ipswich Town FC,H,2,1,-,1,2,Southampton FC,D,'08/17/2025
 Ipswich Town FC,A,2,0,-,1,2,Preston North End FC,L,'08/23/2025

@@ -1,4 +1,4 @@
-TEAM,H/A,PTS,SCORE,,,PTS,OPPONENT,W/D/L,DATE
+TEAM,H/A,TEAM_PTS,TEAM_SCORE,SEP,OPP_SCORE,OPP_PTS,OPPONENT,RESULT,DATE
 Sheffield Wednesday FC,A,0,1,-,2,1,Leicester City FC,L,'08/10/2025
 Sheffield Wednesday FC,H,0,0,-,3,1,Stoke City FC,L,'08/16/2025
 Sheffield Wednesday FC,A,1,2,-,2,3,Wrexham AFC,D,'08/23/2025
