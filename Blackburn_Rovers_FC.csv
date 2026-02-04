@@ -17,7 +17,6 @@ Blackburn Rovers FC,A,19,2,-,1,16,Preston North End FC,W,'11/21/2025
 Blackburn Rovers FC,H,19,0,-,1,16,Queens Park Rangers FC,L,'11/26/2025
 Blackburn Rovers FC,A,20,1,-,1,17,Wrexham AFC,D,'11/29/2025
 Blackburn Rovers FC,H,21,1,-,1,18,Ipswich Town FC,D,'12/02/2025
-Blackburn Rovers FC,H,21,1,-,0,18,Sheffield Wednesday FC,,'12/06/2025
 Blackburn Rovers FC,H,22,1,-,1,19,Oxford United FC,D,'12/09/2025
 Blackburn Rovers FC,A,22,1,-,2,20,Portsmouth FC,L,'12/13/2025
 Blackburn Rovers FC,H,25,2,-,0,22,Millwall FC,W,'12/20/2025
@@ -28,20 +27,21 @@ Blackburn Rovers FC,H,28,2,-,2,24,Charlton Athletic FC,D,'01/04/2026
 Blackburn Rovers FC,A,28,0,-,3,24,Ipswich Town FC,L,'01/17/2026
 Blackburn Rovers FC,A,28,1,-,3,25,Swansea City AFC,L,'01/20/2026
 Blackburn Rovers FC,H,29,1,-,1,26,Watford FC,D,'01/24/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Hull City AFC,,'01/31/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Norwich City FC,,'02/07/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Queens Park Rangers FC,,'02/14/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Preston North End FC,,'02/20/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Bristol City FC,,'02/24/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Derby County FC,,'02/28/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Portsmouth FC,,'03/07/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Oxford United FC,,'03/11/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Millwall FC,,'03/14/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Middlesbrough FC,,'03/21/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Birmingham City FC,,'04/03/2026
-Blackburn Rovers FC,H,29,-,-,-,26,West Bromwich Albion FC,,'04/06/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Stoke City FC,,'04/11/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Coventry City FC,,'04/18/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Sheffield United FC,,'04/22/2026
-Blackburn Rovers FC,A,29,-,-,-,26,Southampton FC,,'04/25/2026
-Blackburn Rovers FC,H,29,-,-,-,26,Leicester City FC,,'05/02/2026
+Blackburn Rovers FC,H,29,0,-,1,26,Hull City AFC,L,'01/31/2026
+Blackburn Rovers FC,H,32,1,-,0,27,Sheffield Wednesday FC,W,'02/03/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Norwich City FC,,'02/07/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Queens Park Rangers FC,,'02/14/2026
+Blackburn Rovers FC,H,32,-,-,-,27,Preston North End FC,,'02/20/2026
+Blackburn Rovers FC,H,32,-,-,-,27,Bristol City FC,,'02/24/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Derby County FC,,'02/28/2026
+Blackburn Rovers FC,H,32,-,-,-,27,Portsmouth FC,,'03/07/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Oxford United FC,,'03/11/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Millwall FC,,'03/14/2026
+Blackburn Rovers FC,H,32,-,-,-,27,Middlesbrough FC,,'03/21/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Birmingham City FC,,'04/03/2026
+Blackburn Rovers FC,H,32,-,-,-,27,West Bromwich Albion FC,,'04/06/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Stoke City FC,,'04/11/2026
+Blackburn Rovers FC,H,32,-,-,-,27,Coventry City FC,,'04/18/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Sheffield United FC,,'04/22/2026
+Blackburn Rovers FC,A,32,-,-,-,27,Southampton FC,,'04/25/2026
+Blackburn Rovers FC,H,32,-,-,-,27,Leicester City FC,,'05/02/2026

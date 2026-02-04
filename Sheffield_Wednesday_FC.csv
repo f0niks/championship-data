@@ -17,7 +17,6 @@ Sheffield Wednesday FC,A,8,1,-,3,12,Southampton FC,L,'11/08/2025
 Sheffield Wednesday FC,H,8,0,-,3,12,Sheffield United FC,L,'11/23/2025
 Sheffield Wednesday FC,A,8,0,-,1,12,Millwall FC,L,'11/26/2025
 Sheffield Wednesday FC,H,8,2,-,3,14,Preston North End FC,L,'11/29/2025
-Sheffield Wednesday FC,A,8,0,-,1,14,Blackburn Rovers FC,,'12/06/2025
 Sheffield Wednesday FC,A,9,1,-,1,15,Watford FC,D,'12/09/2025
 Sheffield Wednesday FC,H,9,0,-,3,15,Derby County FC,L,'12/15/2025
 Sheffield Wednesday FC,A,9,1,-,3,16,Ipswich Town FC,L,'12/20/2025
@@ -28,7 +27,8 @@ Sheffield Wednesday FC,A,11,0,-,3,18,Queens Park Rangers FC,L,'01/04/2026
 Sheffield Wednesday FC,H,11,0,-,1,18,Portsmouth FC,L,'01/17/2026
 Sheffield Wednesday FC,H,11,0,-,2,18,Birmingham City FC,L,'01/20/2026
 Sheffield Wednesday FC,A,11,0,-,2,18,Bristol City FC,L,'01/24/2026
-Sheffield Wednesday FC,H,11,-,-,-,18,Wrexham AFC,,'01/31/2026
+Sheffield Wednesday FC,H,11,0,-,1,18,Wrexham AFC,L,'01/31/2026
+Sheffield Wednesday FC,A,11,0,-,1,18,Blackburn Rovers FC,L,'02/03/2026
 Sheffield Wednesday FC,A,11,-,-,-,18,Swansea City AFC,,'02/08/2026
 Sheffield Wednesday FC,H,11,-,-,-,18,Millwall FC,,'02/14/2026
 Sheffield Wednesday FC,A,11,-,-,-,18,Sheffield United FC,,'02/22/2026
