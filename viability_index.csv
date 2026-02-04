@@ -1,25 +1,25 @@
 POSITION,TEAM,CURRENT_PTS,PROJECTED_PTS,PPG,VIABILITY,VIABILITY_SCORE,SUCCESS_LABEL,SURVIVAL_PROBABILITY_%,RELEGATION_RISK_%,CONFIDENCE
-1,Birmingham City FC,39,62,1.34,NEGATIVE,-0.50,Weak Viability (20-40% survival),20.9,79.1,High
-2,Blackburn Rovers FC,29,48,1.04,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
-3,Bristol City FC,43,68,1.48,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
-4,Charlton Athletic FC,32,53,1.14,NEGATIVE,-0.42,Weak Viability (20-40% survival),23.5,76.5,High
-5,Coventry City FC,58,95,2.07,POSITIVE,1.14,Moderate Viability (40-65% survival),52.1,47.9,Low
-6,Derby County FC,42,67,1.45,NEGATIVE,-0.50,Very Poor Viability (<20% survival),20.6,79.4,High
-7,Hull City AFC,50,82,1.79,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
-8,Ipswich Town FC,50,82,1.79,POSITIVE,2.86,Excellent Viability (>85% survival),100.0,0.0,High
-9,Leicester City FC,38,60,1.31,POSITIVE,2.77,Excellent Viability (>85% survival),91.7,8.3,High
-10,Middlesbrough FC,55,87,1.90,NEGATIVE,-0.28,Weak Viability (20-40% survival),27.2,72.8,High
-11,Millwall FC,49,78,1.69,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.0,78.0,High
-12,Norwich City FC,30,49,1.07,NEGATIVE,-0.28,Weak Viability (20-40% survival),27.2,72.8,High
-13,Oxford United FC,27,44,0.96,NEGATIVE,-0.33,Weak Viability (20-40% survival),26.0,74.0,High
-14,Portsmouth FC,29,51,1.12,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.0,78.0,High
-15,Preston North End FC,43,68,1.48,NEGATIVE,-0.48,Weak Viability (20-40% survival),21.6,78.4,High
-16,Queens Park Rangers FC,40,63,1.38,NEGATIVE,-0.45,Weak Viability (20-40% survival),22.4,77.6,High
-17,Sheffield United FC,35,58,1.25,NEGATIVE,-0.11,Weak Viability (20-40% survival),31.3,68.7,Moderate
-18,Sheffield Wednesday FC,11,18,0.39,NEGATIVE,-0.49,Weak Viability (20-40% survival),21.3,78.7,High
-19,Southampton FC,36,59,1.29,POSITIVE,2.02,Strong Viability (65-85% survival),67.0,33.0,Moderate
-20,Stoke City FC,42,67,1.45,NEGATIVE,-0.39,Weak Viability (20-40% survival),24.3,75.7,High
-21,Swansea City AFC,36,57,1.24,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
-22,Watford FC,43,71,1.54,NEGATIVE,-0.07,Weak Viability (20-40% survival),32.0,68.0,Moderate
-23,West Bromwich Albion FC,32,51,1.10,NEGATIVE,-0.39,Weak Viability (20-40% survival),24.3,75.7,High
-24,Wrexham AFC,44,70,1.52,NEGATIVE,-0.45,Weak Viability (20-40% survival),22.3,77.7,High
+1,Birmingham City FC,42,64,1.40,NEGATIVE,-0.50,Weak Viability (20-40% survival),20.9,79.1,High
+2,Blackburn Rovers FC,32,49,1.07,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
+3,Bristol City FC,43,66,1.43,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
+4,Charlton Athletic FC,35,56,1.21,NEGATIVE,-0.42,Weak Viability (20-40% survival),23.5,76.5,High
+5,Coventry City FC,58,89,1.93,POSITIVE,1.14,Moderate Viability (40-65% survival),52.1,47.9,Low
+6,Derby County FC,45,69,1.50,NEGATIVE,-0.50,Very Poor Viability (<20% survival),20.6,79.4,High
+7,Hull City AFC,54,83,1.80,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
+8,Ipswich Town FC,51,81,1.76,POSITIVE,2.86,Excellent Viability (>85% survival),100.0,0.0,High
+9,Leicester City FC,38,58,1.27,POSITIVE,2.77,Excellent Viability (>85% survival),91.7,8.3,High
+10,Middlesbrough FC,58,89,1.93,NEGATIVE,-0.28,Weak Viability (20-40% survival),27.2,72.8,High
+11,Millwall FC,50,77,1.67,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.0,78.0,High
+12,Norwich City FC,33,51,1.10,NEGATIVE,-0.28,Weak Viability (20-40% survival),27.2,72.8,High
+13,Oxford United FC,27,41,0.90,NEGATIVE,-0.33,Weak Viability (20-40% survival),26.0,74.0,High
+14,Portsmouth FC,33,54,1.18,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.0,78.0,High
+15,Preston North End FC,44,67,1.47,NEGATIVE,-0.48,Weak Viability (20-40% survival),21.6,78.4,High
+16,Queens Park Rangers FC,43,66,1.43,NEGATIVE,-0.45,Weak Viability (20-40% survival),22.4,77.6,High
+17,Sheffield United FC,39,60,1.30,NEGATIVE,-0.11,Weak Viability (20-40% survival),31.3,68.7,Moderate
+18,Sheffield Wednesday FC,11,17,0.37,NEGATIVE,-0.49,Weak Viability (20-40% survival),21.3,78.7,High
+19,Southampton FC,40,61,1.33,POSITIVE,2.02,Strong Viability (65-85% survival),67.0,33.0,Moderate
+20,Stoke City FC,42,64,1.40,NEGATIVE,-0.39,Weak Viability (20-40% survival),24.3,75.7,High
+21,Swansea City AFC,39,60,1.30,NEGATIVE,-0.46,Weak Viability (20-40% survival),22.2,77.8,High
+22,Watford FC,44,67,1.47,NEGATIVE,-0.07,Weak Viability (20-40% survival),32.0,68.0,Moderate
+23,West Bromwich Albion FC,32,49,1.07,NEGATIVE,-0.39,Weak Viability (20-40% survival),24.3,75.7,High
+24,Wrexham AFC,47,72,1.57,NEGATIVE,-0.45,Weak Viability (20-40% survival),22.3,77.7,High
