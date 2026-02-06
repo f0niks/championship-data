@@ -1,23 +1,23 @@
 TEAM,SQUAD_VALUE_M,CHAMPIONSHIP_NET_SPEND_M,PL_NET_SPEND_ESTIMATE_M,DATA_SOURCE,CONFIDENCE,NOTES
 Birmingham City FC,0.0,5.0,22.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Blackburn Rovers FC,0.0,5.0,18.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
-Bristol City FC,0.0,-26.5,92.8,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Bristol City FC,0.0,0.0,0.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
 Charlton Athletic FC,0.0,5.0,17.5,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Coventry City FC,0.0,5.0,18.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
-Derby County FC,0.0,-1.8,22.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Derby County FC,0.0,0.0,22.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
 Hull City AFC,0.0,5.0,20.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Ipswich Town FC,0.0,150.2,5.7,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Leicester City FC,0.0,43.8,-59.2,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Middlesbrough FC,0.0,-2.0,25.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Millwall FC,0.0,-26.4,92.6,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Norwich City FC,0.0,-83.0,30.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Oxford United FC,0.0,-2.1,7.5,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Leicester City FC,0.0,43.8,0.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Middlesbrough FC,0.0,0.0,25.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Millwall FC,0.0,0.0,0.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Norwich City FC,0.0,0.0,30.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Oxford United FC,0.0,0.0,0.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
 Portsmouth FC,0.0,5.0,20.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Preston North End FC,0.0,5.0,17.5,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Queens Park Rangers FC,0.0,129.1,26.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Sheffield United FC,0.0,-25.1,35.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Sheffield Wednesday FC,0.0,-22.6,79.3,Transfermarkt (Automated),High,Scraped from Transfermarkt
-Southampton FC,0.0,81.5,-165.7,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Sheffield United FC,0.0,0.0,35.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Sheffield Wednesday FC,0.0,0.0,0.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
+Southampton FC,0.0,81.5,0.0,Transfermarkt (Automated),High,Scraped from Transfermarkt
 Stoke City FC,0.0,5.0,25.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Swansea City AFC,0.0,5.0,24.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
 Watford FC,0.0,5.0,32.0,Transfermarkt (Automated),Low,Fallback estimate (scraping failed)
