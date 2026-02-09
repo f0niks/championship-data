@@ -29,22 +29,22 @@ Birmingham City FC,A,35,1,-,1,36,Swansea City AFC,D,'01/17/2026
 Birmingham City FC,A,38,2,-,0,38,Sheffield Wednesday FC,W,'01/20/2026
 Birmingham City FC,H,39,1,-,1,39,Stoke City FC,D,'01/24/2026
 Birmingham City FC,A,42,2,-,0,41,Oxford United FC,W,'01/31/2026
-Birmingham City FC,H,42,-,-,-,41,Leicester City FC,,'02/07/2026
-Birmingham City FC,H,42,-,-,-,41,West Bromwich Albion FC,,'02/10/2026
-Birmingham City FC,A,42,-,-,-,41,Norwich City FC,,'02/21/2026
-Birmingham City FC,A,42,-,-,-,41,Millwall FC,,'02/25/2026
-Birmingham City FC,H,42,-,-,-,41,Middlesbrough FC,,'03/02/2026
-Birmingham City FC,A,42,-,-,-,41,Charlton Athletic FC,,'03/07/2026
-Birmingham City FC,H,42,-,-,-,41,Queens Park Rangers FC,,'03/11/2026
-Birmingham City FC,H,42,-,-,-,41,Sheffield United FC,,'03/14/2026
-Birmingham City FC,A,42,-,-,-,41,Derby County FC,,'03/21/2026
-Birmingham City FC,H,42,-,-,-,41,Blackburn Rovers FC,,'04/03/2026
-Birmingham City FC,A,42,-,-,-,41,Ipswich Town FC,,'04/06/2026
-Birmingham City FC,H,42,-,-,-,41,Wrexham AFC,,'04/11/2026
-Birmingham City FC,A,42,-,-,-,41,Hull City AFC,,'04/18/2026
-Birmingham City FC,H,42,-,-,-,41,Preston North End FC,,'04/22/2026
-Birmingham City FC,H,42,-,-,-,41,Bristol City FC,,'04/25/2026
-Birmingham City FC,A,42,-,-,-,41,Portsmouth FC,,'05/02/2026
+Birmingham City FC,H,45,2,-,1,43,Leicester City FC,W,'02/07/2026
+Birmingham City FC,H,45,-,-,-,43,West Bromwich Albion FC,,'02/10/2026
+Birmingham City FC,A,45,-,-,-,43,Norwich City FC,,'02/21/2026
+Birmingham City FC,A,45,-,-,-,43,Millwall FC,,'02/25/2026
+Birmingham City FC,H,45,-,-,-,43,Middlesbrough FC,,'03/02/2026
+Birmingham City FC,A,45,-,-,-,43,Charlton Athletic FC,,'03/07/2026
+Birmingham City FC,H,45,-,-,-,43,Queens Park Rangers FC,,'03/11/2026
+Birmingham City FC,H,45,-,-,-,43,Sheffield United FC,,'03/14/2026
+Birmingham City FC,A,45,-,-,-,43,Derby County FC,,'03/21/2026
+Birmingham City FC,H,45,-,-,-,43,Blackburn Rovers FC,,'04/03/2026
+Birmingham City FC,A,45,-,-,-,43,Ipswich Town FC,,'04/06/2026
+Birmingham City FC,H,45,-,-,-,43,Wrexham AFC,,'04/11/2026
+Birmingham City FC,A,45,-,-,-,43,Hull City AFC,,'04/18/2026
+Birmingham City FC,H,45,-,-,-,43,Preston North End FC,,'04/22/2026
+Birmingham City FC,H,45,-,-,-,43,Bristol City FC,,'04/25/2026
+Birmingham City FC,A,45,-,-,-,43,Portsmouth FC,,'05/02/2026
 Blackburn Rovers FC,A,0,0,-,1,0,West Bromwich Albion FC,L,'08/09/2025
 Blackburn Rovers FC,H,0,1,-,2,1,Birmingham City FC,L,'08/16/2025
 Blackburn Rovers FC,A,3,3,-,0,4,Hull City AFC,W,'08/23/2025
@@ -75,7 +75,7 @@ Blackburn Rovers FC,A,28,1,-,3,25,Swansea City AFC,L,'01/20/2026
 Blackburn Rovers FC,H,29,1,-,1,26,Watford FC,D,'01/24/2026
 Blackburn Rovers FC,H,29,0,-,1,26,Hull City AFC,L,'01/31/2026
 Blackburn Rovers FC,H,32,1,-,0,27,Sheffield Wednesday FC,W,'02/03/2026
-Blackburn Rovers FC,A,32,-,-,-,27,Norwich City FC,,'02/07/2026
+Blackburn Rovers FC,A,32,0,-,2,27,Norwich City FC,L,'02/07/2026
 Blackburn Rovers FC,A,32,-,-,-,27,Queens Park Rangers FC,,'02/14/2026
 Blackburn Rovers FC,H,32,-,-,-,27,Preston North End FC,,'02/20/2026
 Blackburn Rovers FC,H,32,-,-,-,27,Bristol City FC,,'02/24/2026
@@ -121,22 +121,22 @@ Bristol City FC,A,40,0,-,0,38,Oxford United FC,D,'01/17/2026
 Bristol City FC,A,40,0,-,2,38,Ipswich Town FC,L,'01/20/2026
 Bristol City FC,H,43,2,-,0,40,Sheffield Wednesday FC,W,'01/24/2026
 Bristol City FC,H,43,0,-,5,40,Derby County FC,L,'01/30/2026
-Bristol City FC,A,43,-,-,-,40,Hull City AFC,,'02/07/2026
-Bristol City FC,H,43,-,-,-,40,Wrexham AFC,,'02/17/2026
-Bristol City FC,A,43,-,-,-,40,Swansea City AFC,,'02/21/2026
-Bristol City FC,A,43,-,-,-,40,Blackburn Rovers FC,,'02/24/2026
-Bristol City FC,H,43,-,-,-,40,Watford FC,,'02/27/2026
-Bristol City FC,H,43,-,-,-,40,Coventry City FC,,'03/07/2026
-Bristol City FC,A,43,-,-,-,40,Leicester City FC,,'03/10/2026
-Bristol City FC,A,43,-,-,-,40,Middlesbrough FC,,'03/14/2026
-Bristol City FC,H,43,-,-,-,40,West Bromwich Albion FC,,'03/21/2026
-Bristol City FC,A,43,-,-,-,40,Charlton Athletic FC,,'04/03/2026
-Bristol City FC,H,43,-,-,-,40,Sheffield United FC,,'04/06/2026
-Bristol City FC,A,43,-,-,-,40,Queens Park Rangers FC,,'04/11/2026
-Bristol City FC,H,43,-,-,-,40,Norwich City FC,,'04/18/2026
-Bristol City FC,A,43,-,-,-,40,Southampton FC,,'04/21/2026
-Bristol City FC,A,43,-,-,-,40,Birmingham City FC,,'04/25/2026
-Bristol City FC,H,43,-,-,-,40,Stoke City FC,,'05/02/2026
+Bristol City FC,A,46,3,-,2,43,Hull City AFC,W,'02/07/2026
+Bristol City FC,H,46,-,-,-,43,Wrexham AFC,,'02/17/2026
+Bristol City FC,A,46,-,-,-,43,Swansea City AFC,,'02/21/2026
+Bristol City FC,A,46,-,-,-,43,Blackburn Rovers FC,,'02/24/2026
+Bristol City FC,H,46,-,-,-,43,Watford FC,,'02/27/2026
+Bristol City FC,H,46,-,-,-,43,Coventry City FC,,'03/07/2026
+Bristol City FC,A,46,-,-,-,43,Leicester City FC,,'03/10/2026
+Bristol City FC,A,46,-,-,-,43,Middlesbrough FC,,'03/14/2026
+Bristol City FC,H,46,-,-,-,43,West Bromwich Albion FC,,'03/21/2026
+Bristol City FC,A,46,-,-,-,43,Charlton Athletic FC,,'04/03/2026
+Bristol City FC,H,46,-,-,-,43,Sheffield United FC,,'04/06/2026
+Bristol City FC,A,46,-,-,-,43,Queens Park Rangers FC,,'04/11/2026
+Bristol City FC,H,46,-,-,-,43,Norwich City FC,,'04/18/2026
+Bristol City FC,A,46,-,-,-,43,Southampton FC,,'04/21/2026
+Bristol City FC,A,46,-,-,-,43,Birmingham City FC,,'04/25/2026
+Bristol City FC,H,46,-,-,-,43,Stoke City FC,,'05/02/2026
 Charlton Athletic FC,H,3,1,-,0,1,Watford FC,W,'08/09/2025
 Charlton Athletic FC,A,4,0,-,0,1,Bristol City FC,D,'08/16/2025
 Charlton Athletic FC,H,4,0,-,1,1,Leicester City FC,L,'08/23/2025
@@ -213,22 +213,22 @@ Coventry City FC,H,55,2,-,1,59,Leicester City FC,W,'01/17/2026
 Coventry City FC,H,58,2,-,1,61,Millwall FC,W,'01/20/2026
 Coventry City FC,A,58,1,-,2,62,Norwich City FC,L,'01/26/2026
 Coventry City FC,A,58,1,-,2,63,Queens Park Rangers FC,L,'01/31/2026
-Coventry City FC,H,58,-,-,-,63,Oxford United FC,,'02/07/2026
-Coventry City FC,H,58,-,-,-,63,Middlesbrough FC,,'02/16/2026
-Coventry City FC,A,58,-,-,-,63,West Bromwich Albion FC,,'02/21/2026
-Coventry City FC,A,58,-,-,-,63,Sheffield United FC,,'02/25/2026
-Coventry City FC,H,58,-,-,-,63,Stoke City FC,,'02/28/2026
-Coventry City FC,A,58,-,-,-,63,Bristol City FC,,'03/07/2026
-Coventry City FC,H,58,-,-,-,63,Preston North End FC,,'03/11/2026
-Coventry City FC,H,58,-,-,-,63,Southampton FC,,'03/14/2026
-Coventry City FC,A,58,-,-,-,63,Swansea City AFC,,'03/21/2026
-Coventry City FC,H,58,-,-,-,63,Derby County FC,,'04/03/2026
-Coventry City FC,A,58,-,-,-,63,Hull City AFC,,'04/06/2026
-Coventry City FC,H,58,-,-,-,63,Sheffield Wednesday FC,,'04/11/2026
-Coventry City FC,A,58,-,-,-,63,Blackburn Rovers FC,,'04/18/2026
-Coventry City FC,H,58,-,-,-,63,Portsmouth FC,,'04/21/2026
-Coventry City FC,H,58,-,-,-,63,Wrexham AFC,,'04/25/2026
-Coventry City FC,A,58,-,-,-,63,Watford FC,,'05/02/2026
+Coventry City FC,H,59,0,-,0,63,Oxford United FC,D,'02/07/2026
+Coventry City FC,H,59,-,-,-,63,Middlesbrough FC,,'02/16/2026
+Coventry City FC,A,59,-,-,-,63,West Bromwich Albion FC,,'02/21/2026
+Coventry City FC,A,59,-,-,-,63,Sheffield United FC,,'02/25/2026
+Coventry City FC,H,59,-,-,-,63,Stoke City FC,,'02/28/2026
+Coventry City FC,A,59,-,-,-,63,Bristol City FC,,'03/07/2026
+Coventry City FC,H,59,-,-,-,63,Preston North End FC,,'03/11/2026
+Coventry City FC,H,59,-,-,-,63,Southampton FC,,'03/14/2026
+Coventry City FC,A,59,-,-,-,63,Swansea City AFC,,'03/21/2026
+Coventry City FC,H,59,-,-,-,63,Derby County FC,,'04/03/2026
+Coventry City FC,A,59,-,-,-,63,Hull City AFC,,'04/06/2026
+Coventry City FC,H,59,-,-,-,63,Sheffield Wednesday FC,,'04/11/2026
+Coventry City FC,A,59,-,-,-,63,Blackburn Rovers FC,,'04/18/2026
+Coventry City FC,H,59,-,-,-,63,Portsmouth FC,,'04/21/2026
+Coventry City FC,H,59,-,-,-,63,Wrexham AFC,,'04/25/2026
+Coventry City FC,A,59,-,-,-,63,Watford FC,,'05/02/2026
 Derby County FC,A,0,1,-,3,1,Stoke City FC,L,'08/09/2025
 Derby County FC,H,0,3,-,5,4,Coventry City FC,L,'08/16/2025
 Derby County FC,H,1,1,-,1,5,Bristol City FC,D,'08/22/2025
@@ -259,22 +259,22 @@ Derby County FC,A,38,1,-,0,36,Preston North End FC,W,'01/17/2026
 Derby County FC,A,41,2,-,1,38,Charlton Athletic FC,W,'01/20/2026
 Derby County FC,H,42,1,-,1,39,West Bromwich Albion FC,D,'01/23/2026
 Derby County FC,A,45,5,-,0,44,Bristol City FC,W,'01/30/2026
-Derby County FC,H,45,-,-,-,44,Ipswich Town FC,,'02/07/2026
-Derby County FC,H,45,-,-,-,44,Swansea City AFC,,'02/14/2026
-Derby County FC,A,45,-,-,-,44,Watford FC,,'02/21/2026
-Derby County FC,A,45,-,-,-,44,Hull City AFC,,'02/24/2026
-Derby County FC,H,45,-,-,-,44,Blackburn Rovers FC,,'02/28/2026
-Derby County FC,H,45,-,-,-,44,Sheffield Wednesday FC,,'03/07/2026
-Derby County FC,A,45,-,-,-,44,Millwall FC,,'03/10/2026
-Derby County FC,A,45,-,-,-,44,Portsmouth FC,,'03/14/2026
-Derby County FC,H,45,-,-,-,44,Birmingham City FC,,'03/21/2026
-Derby County FC,A,45,-,-,-,44,Coventry City FC,,'04/03/2026
-Derby County FC,H,45,-,-,-,44,Stoke City FC,,'04/06/2026
-Derby County FC,A,45,-,-,-,44,Southampton FC,,'04/11/2026
-Derby County FC,H,45,-,-,-,44,Oxford United FC,,'04/18/2026
-Derby County FC,A,45,-,-,-,44,Norwich City FC,,'04/21/2026
-Derby County FC,A,45,-,-,-,44,Queens Park Rangers FC,,'04/25/2026
-Derby County FC,H,45,-,-,-,44,Sheffield United FC,,'05/02/2026
+Derby County FC,H,45,1,-,2,45,Ipswich Town FC,L,'02/07/2026
+Derby County FC,H,45,-,-,-,45,Swansea City AFC,,'02/14/2026
+Derby County FC,A,45,-,-,-,45,Watford FC,,'02/21/2026
+Derby County FC,A,45,-,-,-,45,Hull City AFC,,'02/24/2026
+Derby County FC,H,45,-,-,-,45,Blackburn Rovers FC,,'02/28/2026
+Derby County FC,H,45,-,-,-,45,Sheffield Wednesday FC,,'03/07/2026
+Derby County FC,A,45,-,-,-,45,Millwall FC,,'03/10/2026
+Derby County FC,A,45,-,-,-,45,Portsmouth FC,,'03/14/2026
+Derby County FC,H,45,-,-,-,45,Birmingham City FC,,'03/21/2026
+Derby County FC,A,45,-,-,-,45,Coventry City FC,,'04/03/2026
+Derby County FC,H,45,-,-,-,45,Stoke City FC,,'04/06/2026
+Derby County FC,A,45,-,-,-,45,Southampton FC,,'04/11/2026
+Derby County FC,H,45,-,-,-,45,Oxford United FC,,'04/18/2026
+Derby County FC,A,45,-,-,-,45,Norwich City FC,,'04/21/2026
+Derby County FC,A,45,-,-,-,45,Queens Park Rangers FC,,'04/25/2026
+Derby County FC,H,45,-,-,-,45,Sheffield United FC,,'05/02/2026
 Hull City AFC,A,1,0,-,0,0,Coventry City FC,D,'08/09/2025
 Hull City AFC,H,4,3,-,2,3,Oxford United FC,W,'08/17/2025
 Hull City AFC,H,4,0,-,3,3,Blackburn Rovers FC,L,'08/23/2025
@@ -305,22 +305,22 @@ Hull City AFC,A,47,3,-,0,45,Preston North End FC,W,'01/20/2026
 Hull City AFC,H,50,2,-,1,47,Swansea City AFC,W,'01/24/2026
 Hull City AFC,A,53,1,-,0,48,Blackburn Rovers FC,W,'01/31/2026
 Hull City AFC,H,54,0,-,0,48,Watford FC,D,'02/03/2026
-Hull City AFC,H,54,-,-,-,48,Bristol City FC,,'02/07/2026
-Hull City AFC,H,54,-,-,-,48,Queens Park Rangers FC,,'02/21/2026
-Hull City AFC,H,54,-,-,-,48,Derby County FC,,'02/24/2026
-Hull City AFC,A,54,-,-,-,48,Portsmouth FC,,'02/28/2026
-Hull City AFC,A,54,-,-,-,48,Ipswich Town FC,,'03/03/2026
-Hull City AFC,H,54,-,-,-,48,Millwall FC,,'03/07/2026
-Hull City AFC,A,54,-,-,-,48,Wrexham AFC,,'03/10/2026
-Hull City AFC,A,54,-,-,-,48,West Bromwich Albion FC,,'03/14/2026
-Hull City AFC,H,54,-,-,-,48,Sheffield Wednesday FC,,'03/21/2026
-Hull City AFC,A,54,-,-,-,48,Oxford United FC,,'04/03/2026
-Hull City AFC,H,54,-,-,-,48,Coventry City FC,,'04/06/2026
-Hull City AFC,A,54,-,-,-,48,Sheffield United FC,,'04/11/2026
-Hull City AFC,H,54,-,-,-,48,Birmingham City FC,,'04/18/2026
-Hull City AFC,A,54,-,-,-,48,Leicester City FC,,'04/22/2026
-Hull City AFC,A,54,-,-,-,48,Charlton Athletic FC,,'04/25/2026
-Hull City AFC,H,54,-,-,-,48,Norwich City FC,,'05/02/2026
+Hull City AFC,H,54,2,-,3,50,Bristol City FC,L,'02/07/2026
+Hull City AFC,H,54,-,-,-,50,Queens Park Rangers FC,,'02/21/2026
+Hull City AFC,H,54,-,-,-,50,Derby County FC,,'02/24/2026
+Hull City AFC,A,54,-,-,-,50,Portsmouth FC,,'02/28/2026
+Hull City AFC,A,54,-,-,-,50,Ipswich Town FC,,'03/03/2026
+Hull City AFC,H,54,-,-,-,50,Millwall FC,,'03/07/2026
+Hull City AFC,A,54,-,-,-,50,Wrexham AFC,,'03/10/2026
+Hull City AFC,A,54,-,-,-,50,West Bromwich Albion FC,,'03/14/2026
+Hull City AFC,H,54,-,-,-,50,Sheffield Wednesday FC,,'03/21/2026
+Hull City AFC,A,54,-,-,-,50,Oxford United FC,,'04/03/2026
+Hull City AFC,H,54,-,-,-,50,Coventry City FC,,'04/06/2026
+Hull City AFC,A,54,-,-,-,50,Sheffield United FC,,'04/11/2026
+Hull City AFC,H,54,-,-,-,50,Birmingham City FC,,'04/18/2026
+Hull City AFC,A,54,-,-,-,50,Leicester City FC,,'04/22/2026
+Hull City AFC,A,54,-,-,-,50,Charlton Athletic FC,,'04/25/2026
+Hull City AFC,H,54,-,-,-,50,Norwich City FC,,'05/02/2026
 Ipswich Town FC,A,1,1,-,1,1,Birmingham City FC,D,'08/08/2025
 Ipswich Town FC,H,2,1,-,1,2,Southampton FC,D,'08/17/2025
 Ipswich Town FC,A,2,0,-,1,2,Preston North End FC,L,'08/23/2025
@@ -351,22 +351,22 @@ Ipswich Town FC,H,50,2,-,0,47,Bristol City FC,W,'01/20/2026
 Ipswich Town FC,A,50,1,-,3,48,Sheffield United FC,L,'01/24/2026
 Ipswich Town FC,H,51,1,-,1,49,Preston North End FC,D,'01/31/2026
 Ipswich Town FC,A,51,-,-,-,49,Portsmouth FC,,'02/03/2026
-Ipswich Town FC,A,51,-,-,-,49,Derby County FC,,'02/07/2026
-Ipswich Town FC,A,51,-,-,-,49,Wrexham AFC,,'02/21/2026
-Ipswich Town FC,A,51,-,-,-,49,Watford FC,,'02/24/2026
-Ipswich Town FC,H,51,-,-,-,49,Swansea City AFC,,'02/28/2026
-Ipswich Town FC,H,51,-,-,-,49,Hull City AFC,,'03/03/2026
-Ipswich Town FC,H,51,-,-,-,49,Leicester City FC,,'03/07/2026
-Ipswich Town FC,A,51,-,-,-,49,Stoke City FC,,'03/10/2026
-Ipswich Town FC,A,51,-,-,-,49,Sheffield Wednesday FC,,'03/14/2026
-Ipswich Town FC,H,51,-,-,-,49,Millwall FC,,'03/21/2026
-Ipswich Town FC,A,51,-,-,-,49,Southampton FC,,'04/03/2026
-Ipswich Town FC,H,51,-,-,-,49,Birmingham City FC,,'04/06/2026
-Ipswich Town FC,A,51,-,-,-,49,Norwich City FC,,'04/11/2026
-Ipswich Town FC,H,51,-,-,-,49,Middlesbrough FC,,'04/18/2026
-Ipswich Town FC,A,51,-,-,-,49,Charlton Athletic FC,,'04/22/2026
-Ipswich Town FC,A,51,-,-,-,49,West Bromwich Albion FC,,'04/25/2026
-Ipswich Town FC,H,51,-,-,-,49,Queens Park Rangers FC,,'05/02/2026
+Ipswich Town FC,A,54,2,-,1,51,Derby County FC,W,'02/07/2026
+Ipswich Town FC,A,54,-,-,-,51,Wrexham AFC,,'02/21/2026
+Ipswich Town FC,A,54,-,-,-,51,Watford FC,,'02/24/2026
+Ipswich Town FC,H,54,-,-,-,51,Swansea City AFC,,'02/28/2026
+Ipswich Town FC,H,54,-,-,-,51,Hull City AFC,,'03/03/2026
+Ipswich Town FC,H,54,-,-,-,51,Leicester City FC,,'03/07/2026
+Ipswich Town FC,A,54,-,-,-,51,Stoke City FC,,'03/10/2026
+Ipswich Town FC,A,54,-,-,-,51,Sheffield Wednesday FC,,'03/14/2026
+Ipswich Town FC,H,54,-,-,-,51,Millwall FC,,'03/21/2026
+Ipswich Town FC,A,54,-,-,-,51,Southampton FC,,'04/03/2026
+Ipswich Town FC,H,54,-,-,-,51,Birmingham City FC,,'04/06/2026
+Ipswich Town FC,A,54,-,-,-,51,Norwich City FC,,'04/11/2026
+Ipswich Town FC,H,54,-,-,-,51,Middlesbrough FC,,'04/18/2026
+Ipswich Town FC,A,54,-,-,-,51,Charlton Athletic FC,,'04/22/2026
+Ipswich Town FC,A,54,-,-,-,51,West Bromwich Albion FC,,'04/25/2026
+Ipswich Town FC,H,54,-,-,-,51,Queens Park Rangers FC,,'05/02/2026
 Leicester City FC,H,3,2,-,1,2,Sheffield Wednesday FC,W,'08/10/2025
 Leicester City FC,A,3,1,-,2,3,Preston North End FC,L,'08/16/2025
 Leicester City FC,A,6,1,-,0,4,Charlton Athletic FC,W,'08/23/2025
@@ -397,22 +397,22 @@ Leicester City FC,A,37,1,-,2,38,Coventry City FC,L,'01/17/2026
 Leicester City FC,A,38,1,-,1,39,Wrexham AFC,D,'01/20/2026
 Leicester City FC,H,38,1,-,2,40,Oxford United FC,L,'01/24/2026
 Leicester City FC,H,38,0,-,2,40,Charlton Athletic FC,L,'01/31/2026
-Leicester City FC,A,38,-,-,-,40,Birmingham City FC,,'02/07/2026
-Leicester City FC,H,38,-,-,-,40,Southampton FC,,'02/10/2026
-Leicester City FC,A,38,-,-,-,40,Stoke City FC,,'02/21/2026
-Leicester City FC,A,38,-,-,-,40,Middlesbrough FC,,'02/24/2026
-Leicester City FC,H,38,-,-,-,40,Norwich City FC,,'02/28/2026
-Leicester City FC,A,38,-,-,-,40,Ipswich Town FC,,'03/07/2026
-Leicester City FC,H,38,-,-,-,40,Bristol City FC,,'03/10/2026
-Leicester City FC,H,38,-,-,-,40,Queens Park Rangers FC,,'03/14/2026
-Leicester City FC,A,38,-,-,-,40,Watford FC,,'03/21/2026
-Leicester City FC,H,38,-,-,-,40,Preston North End FC,,'04/03/2026
-Leicester City FC,A,38,-,-,-,40,Sheffield Wednesday FC,,'04/06/2026
-Leicester City FC,H,38,-,-,-,40,Swansea City AFC,,'04/11/2026
-Leicester City FC,A,38,-,-,-,40,Portsmouth FC,,'04/18/2026
-Leicester City FC,H,38,-,-,-,40,Hull City AFC,,'04/22/2026
-Leicester City FC,H,38,-,-,-,40,Millwall FC,,'04/25/2026
-Leicester City FC,A,38,-,-,-,40,Blackburn Rovers FC,,'05/02/2026
+Leicester City FC,A,38,1,-,2,41,Birmingham City FC,L,'02/07/2026
+Leicester City FC,H,38,-,-,-,41,Southampton FC,,'02/10/2026
+Leicester City FC,A,38,-,-,-,41,Stoke City FC,,'02/21/2026
+Leicester City FC,A,38,-,-,-,41,Middlesbrough FC,,'02/24/2026
+Leicester City FC,H,38,-,-,-,41,Norwich City FC,,'02/28/2026
+Leicester City FC,A,38,-,-,-,41,Ipswich Town FC,,'03/07/2026
+Leicester City FC,H,38,-,-,-,41,Bristol City FC,,'03/10/2026
+Leicester City FC,H,38,-,-,-,41,Queens Park Rangers FC,,'03/14/2026
+Leicester City FC,A,38,-,-,-,41,Watford FC,,'03/21/2026
+Leicester City FC,H,38,-,-,-,41,Preston North End FC,,'04/03/2026
+Leicester City FC,A,38,-,-,-,41,Sheffield Wednesday FC,,'04/06/2026
+Leicester City FC,H,38,-,-,-,41,Swansea City AFC,,'04/11/2026
+Leicester City FC,A,38,-,-,-,41,Portsmouth FC,,'04/18/2026
+Leicester City FC,H,38,-,-,-,41,Hull City AFC,,'04/22/2026
+Leicester City FC,H,38,-,-,-,41,Millwall FC,,'04/25/2026
+Leicester City FC,A,38,-,-,-,41,Blackburn Rovers FC,,'05/02/2026
 Middlesbrough FC,H,3,1,-,0,1,Swansea City AFC,W,'08/09/2025
 Middlesbrough FC,A,6,3,-,0,4,Millwall FC,W,'08/16/2025
 Middlesbrough FC,A,9,2,-,1,6,Norwich City FC,W,'08/23/2025
@@ -443,22 +443,22 @@ Middlesbrough FC,A,49,3,-,2,40,West Bromwich Albion FC,W,'01/16/2026
 Middlesbrough FC,A,52,2,-,1,42,Stoke City FC,W,'01/21/2026
 Middlesbrough FC,H,55,4,-,0,46,Preston North End FC,W,'01/24/2026
 Middlesbrough FC,H,58,1,-,0,47,Norwich City FC,W,'01/31/2026
-Middlesbrough FC,A,58,-,-,-,47,Sheffield United FC,,'02/09/2026
-Middlesbrough FC,A,58,-,-,-,47,Coventry City FC,,'02/16/2026
-Middlesbrough FC,H,58,-,-,-,47,Oxford United FC,,'02/21/2026
-Middlesbrough FC,H,58,-,-,-,47,Leicester City FC,,'02/24/2026
-Middlesbrough FC,A,58,-,-,-,47,Birmingham City FC,,'03/02/2026
-Middlesbrough FC,A,58,-,-,-,47,Queens Park Rangers FC,,'03/08/2026
-Middlesbrough FC,H,58,-,-,-,47,Charlton Athletic FC,,'03/11/2026
-Middlesbrough FC,H,58,-,-,-,47,Bristol City FC,,'03/14/2026
-Middlesbrough FC,A,58,-,-,-,47,Blackburn Rovers FC,,'03/21/2026
-Middlesbrough FC,H,58,-,-,-,47,Millwall FC,,'04/03/2026
-Middlesbrough FC,A,58,-,-,-,47,Swansea City AFC,,'04/06/2026
-Middlesbrough FC,H,58,-,-,-,47,Portsmouth FC,,'04/11/2026
-Middlesbrough FC,A,58,-,-,-,47,Ipswich Town FC,,'04/18/2026
-Middlesbrough FC,H,58,-,-,-,47,Sheffield Wednesday FC,,'04/21/2026
-Middlesbrough FC,H,58,-,-,-,47,Watford FC,,'04/25/2026
-Middlesbrough FC,A,58,-,-,-,47,Wrexham AFC,,'05/02/2026
+Middlesbrough FC,A,61,2,-,1,49,Sheffield United FC,W,'02/09/2026
+Middlesbrough FC,A,61,-,-,-,49,Coventry City FC,,'02/16/2026
+Middlesbrough FC,H,61,-,-,-,49,Oxford United FC,,'02/21/2026
+Middlesbrough FC,H,61,-,-,-,49,Leicester City FC,,'02/24/2026
+Middlesbrough FC,A,61,-,-,-,49,Birmingham City FC,,'03/02/2026
+Middlesbrough FC,A,61,-,-,-,49,Queens Park Rangers FC,,'03/08/2026
+Middlesbrough FC,H,61,-,-,-,49,Charlton Athletic FC,,'03/11/2026
+Middlesbrough FC,H,61,-,-,-,49,Bristol City FC,,'03/14/2026
+Middlesbrough FC,A,61,-,-,-,49,Blackburn Rovers FC,,'03/21/2026
+Middlesbrough FC,H,61,-,-,-,49,Millwall FC,,'04/03/2026
+Middlesbrough FC,A,61,-,-,-,49,Swansea City AFC,,'04/06/2026
+Middlesbrough FC,H,61,-,-,-,49,Portsmouth FC,,'04/11/2026
+Middlesbrough FC,A,61,-,-,-,49,Ipswich Town FC,,'04/18/2026
+Middlesbrough FC,H,61,-,-,-,49,Sheffield Wednesday FC,,'04/21/2026
+Middlesbrough FC,H,61,-,-,-,49,Watford FC,,'04/25/2026
+Middlesbrough FC,A,61,-,-,-,49,Wrexham AFC,,'05/02/2026
 Millwall FC,A,3,2,-,1,2,Norwich City FC,W,'08/09/2025
 Millwall FC,H,3,0,-,3,2,Middlesbrough FC,L,'08/16/2025
 Millwall FC,A,6,1,-,0,3,Sheffield United FC,W,'08/23/2025
@@ -489,22 +489,22 @@ Millwall FC,A,46,2,-,0,31,Watford FC,W,'01/17/2026
 Millwall FC,A,46,1,-,2,32,Coventry City FC,L,'01/20/2026
 Millwall FC,H,49,4,-,0,36,Charlton Athletic FC,W,'01/24/2026
 Millwall FC,H,50,1,-,1,37,Sheffield United FC,D,'01/31/2026
-Millwall FC,A,50,-,-,-,37,Wrexham AFC,,'02/07/2026
-Millwall FC,A,50,-,-,-,37,Sheffield Wednesday FC,,'02/14/2026
-Millwall FC,H,50,-,-,-,37,Portsmouth FC,,'02/21/2026
-Millwall FC,H,50,-,-,-,37,Birmingham City FC,,'02/25/2026
-Millwall FC,A,50,-,-,-,37,Preston North End FC,,'02/28/2026
-Millwall FC,A,50,-,-,-,37,Hull City AFC,,'03/07/2026
-Millwall FC,H,50,-,-,-,37,Derby County FC,,'03/10/2026
-Millwall FC,H,50,-,-,-,37,Blackburn Rovers FC,,'03/14/2026
-Millwall FC,A,50,-,-,-,37,Ipswich Town FC,,'03/21/2026
-Millwall FC,A,50,-,-,-,37,Middlesbrough FC,,'04/03/2026
-Millwall FC,H,50,-,-,-,37,Norwich City FC,,'04/06/2026
-Millwall FC,A,50,-,-,-,37,West Bromwich Albion FC,,'04/11/2026
-Millwall FC,H,50,-,-,-,37,Queens Park Rangers FC,,'04/18/2026
-Millwall FC,A,50,-,-,-,37,Stoke City FC,,'04/21/2026
-Millwall FC,A,50,-,-,-,37,Leicester City FC,,'04/25/2026
-Millwall FC,H,50,-,-,-,37,Oxford United FC,,'05/02/2026
+Millwall FC,A,53,2,-,0,39,Wrexham AFC,W,'02/07/2026
+Millwall FC,A,53,-,-,-,39,Sheffield Wednesday FC,,'02/14/2026
+Millwall FC,H,53,-,-,-,39,Portsmouth FC,,'02/21/2026
+Millwall FC,H,53,-,-,-,39,Birmingham City FC,,'02/25/2026
+Millwall FC,A,53,-,-,-,39,Preston North End FC,,'02/28/2026
+Millwall FC,A,53,-,-,-,39,Hull City AFC,,'03/07/2026
+Millwall FC,H,53,-,-,-,39,Derby County FC,,'03/10/2026
+Millwall FC,H,53,-,-,-,39,Blackburn Rovers FC,,'03/14/2026
+Millwall FC,A,53,-,-,-,39,Ipswich Town FC,,'03/21/2026
+Millwall FC,A,53,-,-,-,39,Middlesbrough FC,,'04/03/2026
+Millwall FC,H,53,-,-,-,39,Norwich City FC,,'04/06/2026
+Millwall FC,A,53,-,-,-,39,West Bromwich Albion FC,,'04/11/2026
+Millwall FC,H,53,-,-,-,39,Queens Park Rangers FC,,'04/18/2026
+Millwall FC,A,53,-,-,-,39,Stoke City FC,,'04/21/2026
+Millwall FC,A,53,-,-,-,39,Leicester City FC,,'04/25/2026
+Millwall FC,H,53,-,-,-,39,Oxford United FC,,'05/02/2026
 Norwich City FC,H,0,1,-,2,1,Millwall FC,L,'08/09/2025
 Norwich City FC,A,3,2,-,1,3,Portsmouth FC,W,'08/16/2025
 Norwich City FC,H,3,1,-,2,4,Middlesbrough FC,L,'08/23/2025
@@ -535,22 +535,22 @@ Norwich City FC,A,27,2,-,1,30,Wrexham AFC,W,'01/17/2026
 Norwich City FC,A,30,5,-,0,35,West Bromwich Albion FC,W,'01/20/2026
 Norwich City FC,H,33,2,-,1,37,Coventry City FC,W,'01/26/2026
 Norwich City FC,A,33,0,-,1,37,Middlesbrough FC,L,'01/31/2026
-Norwich City FC,H,33,-,-,-,37,Blackburn Rovers FC,,'02/07/2026
-Norwich City FC,A,33,-,-,-,37,Oxford United FC,,'02/10/2026
-Norwich City FC,H,33,-,-,-,37,Birmingham City FC,,'02/21/2026
-Norwich City FC,H,33,-,-,-,37,Sheffield Wednesday FC,,'02/25/2026
-Norwich City FC,A,33,-,-,-,37,Leicester City FC,,'02/28/2026
-Norwich City FC,A,33,-,-,-,37,Southampton FC,,'03/07/2026
-Norwich City FC,H,33,-,-,-,37,Sheffield United FC,,'03/10/2026
-Norwich City FC,H,33,-,-,-,37,Preston North End FC,,'03/14/2026
-Norwich City FC,A,33,-,-,-,37,Charlton Athletic FC,,'03/21/2026
-Norwich City FC,H,33,-,-,-,37,Portsmouth FC,,'04/03/2026
-Norwich City FC,A,33,-,-,-,37,Millwall FC,,'04/06/2026
-Norwich City FC,H,33,-,-,-,37,Ipswich Town FC,,'04/11/2026
-Norwich City FC,A,33,-,-,-,37,Bristol City FC,,'04/18/2026
-Norwich City FC,H,33,-,-,-,37,Derby County FC,,'04/21/2026
-Norwich City FC,H,33,-,-,-,37,Swansea City AFC,,'04/25/2026
-Norwich City FC,A,33,-,-,-,37,Hull City AFC,,'05/02/2026
+Norwich City FC,H,36,2,-,0,39,Blackburn Rovers FC,W,'02/07/2026
+Norwich City FC,A,36,-,-,-,39,Oxford United FC,,'02/10/2026
+Norwich City FC,H,36,-,-,-,39,Birmingham City FC,,'02/21/2026
+Norwich City FC,H,36,-,-,-,39,Sheffield Wednesday FC,,'02/25/2026
+Norwich City FC,A,36,-,-,-,39,Leicester City FC,,'02/28/2026
+Norwich City FC,A,36,-,-,-,39,Southampton FC,,'03/07/2026
+Norwich City FC,H,36,-,-,-,39,Sheffield United FC,,'03/10/2026
+Norwich City FC,H,36,-,-,-,39,Preston North End FC,,'03/14/2026
+Norwich City FC,A,36,-,-,-,39,Charlton Athletic FC,,'03/21/2026
+Norwich City FC,H,36,-,-,-,39,Portsmouth FC,,'04/03/2026
+Norwich City FC,A,36,-,-,-,39,Millwall FC,,'04/06/2026
+Norwich City FC,H,36,-,-,-,39,Ipswich Town FC,,'04/11/2026
+Norwich City FC,A,36,-,-,-,39,Bristol City FC,,'04/18/2026
+Norwich City FC,H,36,-,-,-,39,Derby County FC,,'04/21/2026
+Norwich City FC,H,36,-,-,-,39,Swansea City AFC,,'04/25/2026
+Norwich City FC,A,36,-,-,-,39,Hull City AFC,,'05/02/2026
 Oxford United FC,H,0,0,-,1,0,Portsmouth FC,L,'08/09/2025
 Oxford United FC,A,0,2,-,3,2,Hull City AFC,L,'08/17/2025
 Oxford United FC,A,0,0,-,1,2,Birmingham City FC,L,'08/23/2025
@@ -581,22 +581,22 @@ Oxford United FC,H,24,0,-,0,25,Queens Park Rangers FC,D,'01/20/2026
 Oxford United FC,A,27,2,-,1,27,Leicester City FC,W,'01/24/2026
 Oxford United FC,H,27,0,-,2,27,Birmingham City FC,L,'01/31/2026
 Oxford United FC,A,27,1,-,3,28,Sheffield United FC,L,'02/03/2026
-Oxford United FC,A,27,-,-,-,28,Coventry City FC,,'02/07/2026
-Oxford United FC,H,27,-,-,-,28,Norwich City FC,,'02/10/2026
-Oxford United FC,A,27,-,-,-,28,Middlesbrough FC,,'02/21/2026
-Oxford United FC,A,27,-,-,-,28,Stoke City FC,,'02/25/2026
-Oxford United FC,H,27,-,-,-,28,West Bromwich Albion FC,,'02/28/2026
-Oxford United FC,A,27,-,-,-,28,Preston North End FC,,'03/06/2026
-Oxford United FC,H,27,-,-,-,28,Blackburn Rovers FC,,'03/11/2026
-Oxford United FC,H,27,-,-,-,28,Charlton Athletic FC,,'03/14/2026
-Oxford United FC,A,27,-,-,-,28,Southampton FC,,'03/21/2026
-Oxford United FC,H,27,-,-,-,28,Hull City AFC,,'04/03/2026
-Oxford United FC,A,27,-,-,-,28,Portsmouth FC,,'04/06/2026
-Oxford United FC,H,27,-,-,-,28,Watford FC,,'04/11/2026
-Oxford United FC,A,27,-,-,-,28,Derby County FC,,'04/18/2026
-Oxford United FC,H,27,-,-,-,28,Wrexham AFC,,'04/21/2026
-Oxford United FC,H,27,-,-,-,28,Sheffield Wednesday FC,,'04/25/2026
-Oxford United FC,A,27,-,-,-,28,Millwall FC,,'05/02/2026
+Oxford United FC,A,28,0,-,0,28,Coventry City FC,D,'02/07/2026
+Oxford United FC,H,28,-,-,-,28,Norwich City FC,,'02/10/2026
+Oxford United FC,A,28,-,-,-,28,Middlesbrough FC,,'02/21/2026
+Oxford United FC,A,28,-,-,-,28,Stoke City FC,,'02/25/2026
+Oxford United FC,H,28,-,-,-,28,West Bromwich Albion FC,,'02/28/2026
+Oxford United FC,A,28,-,-,-,28,Preston North End FC,,'03/06/2026
+Oxford United FC,H,28,-,-,-,28,Blackburn Rovers FC,,'03/11/2026
+Oxford United FC,H,28,-,-,-,28,Charlton Athletic FC,,'03/14/2026
+Oxford United FC,A,28,-,-,-,28,Southampton FC,,'03/21/2026
+Oxford United FC,H,28,-,-,-,28,Hull City AFC,,'04/03/2026
+Oxford United FC,A,28,-,-,-,28,Portsmouth FC,,'04/06/2026
+Oxford United FC,H,28,-,-,-,28,Watford FC,,'04/11/2026
+Oxford United FC,A,28,-,-,-,28,Derby County FC,,'04/18/2026
+Oxford United FC,H,28,-,-,-,28,Wrexham AFC,,'04/21/2026
+Oxford United FC,H,28,-,-,-,28,Sheffield Wednesday FC,,'04/25/2026
+Oxford United FC,A,28,-,-,-,28,Millwall FC,,'05/02/2026
 Portsmouth FC,A,3,1,-,0,1,Oxford United FC,W,'08/09/2025
 Portsmouth FC,H,3,1,-,2,2,Norwich City FC,L,'08/16/2025
 Portsmouth FC,A,4,1,-,1,3,West Bromwich Albion FC,D,'08/23/2025
@@ -627,7 +627,7 @@ Portsmouth FC,A,29,1,-,1,23,Watford FC,D,'01/21/2026
 Portsmouth FC,H,30,1,-,1,24,Southampton FC,D,'01/25/2026
 Portsmouth FC,H,33,3,-,0,27,West Bromwich Albion FC,W,'01/31/2026
 Portsmouth FC,H,33,-,-,-,27,Ipswich Town FC,,'02/03/2026
-Portsmouth FC,A,33,-,-,-,27,Preston North End FC,,'02/07/2026
+Portsmouth FC,A,33,0,-,1,27,Preston North End FC,L,'02/07/2026
 Portsmouth FC,H,33,-,-,-,27,Sheffield United FC,,'02/14/2026
 Portsmouth FC,A,33,-,-,-,27,Millwall FC,,'02/21/2026
 Portsmouth FC,A,33,-,-,-,27,Wrexham AFC,,'02/24/2026
@@ -673,22 +673,22 @@ Preston North End FC,H,43,0,-,1,36,Derby County FC,L,'01/17/2026
 Preston North End FC,H,43,0,-,3,36,Hull City AFC,L,'01/20/2026
 Preston North End FC,A,43,0,-,4,36,Middlesbrough FC,L,'01/24/2026
 Preston North End FC,A,44,1,-,1,37,Ipswich Town FC,D,'01/31/2026
-Preston North End FC,H,44,-,-,-,37,Portsmouth FC,,'02/07/2026
-Preston North End FC,H,44,-,-,-,37,Watford FC,,'02/14/2026
-Preston North End FC,A,44,-,-,-,37,Blackburn Rovers FC,,'02/20/2026
-Preston North End FC,A,44,-,-,-,37,Swansea City AFC,,'02/24/2026
-Preston North End FC,H,44,-,-,-,37,Millwall FC,,'02/28/2026
-Preston North End FC,H,44,-,-,-,37,Oxford United FC,,'03/06/2026
-Preston North End FC,A,44,-,-,-,37,Coventry City FC,,'03/11/2026
-Preston North End FC,A,44,-,-,-,37,Norwich City FC,,'03/14/2026
-Preston North End FC,H,44,-,-,-,37,Stoke City FC,,'03/21/2026
-Preston North End FC,A,44,-,-,-,37,Leicester City FC,,'04/03/2026
-Preston North End FC,H,44,-,-,-,37,Queens Park Rangers FC,,'04/06/2026
-Preston North End FC,A,44,-,-,-,37,Charlton Athletic FC,,'04/11/2026
-Preston North End FC,H,44,-,-,-,37,West Bromwich Albion FC,,'04/18/2026
-Preston North End FC,A,44,-,-,-,37,Birmingham City FC,,'04/22/2026
-Preston North End FC,A,44,-,-,-,37,Sheffield United FC,,'04/25/2026
-Preston North End FC,H,44,-,-,-,37,Southampton FC,,'05/02/2026
+Preston North End FC,H,47,1,-,0,38,Portsmouth FC,W,'02/07/2026
+Preston North End FC,H,47,-,-,-,38,Watford FC,,'02/14/2026
+Preston North End FC,A,47,-,-,-,38,Blackburn Rovers FC,,'02/20/2026
+Preston North End FC,A,47,-,-,-,38,Swansea City AFC,,'02/24/2026
+Preston North End FC,H,47,-,-,-,38,Millwall FC,,'02/28/2026
+Preston North End FC,H,47,-,-,-,38,Oxford United FC,,'03/06/2026
+Preston North End FC,A,47,-,-,-,38,Coventry City FC,,'03/11/2026
+Preston North End FC,A,47,-,-,-,38,Norwich City FC,,'03/14/2026
+Preston North End FC,H,47,-,-,-,38,Stoke City FC,,'03/21/2026
+Preston North End FC,A,47,-,-,-,38,Leicester City FC,,'04/03/2026
+Preston North End FC,H,47,-,-,-,38,Queens Park Rangers FC,,'04/06/2026
+Preston North End FC,A,47,-,-,-,38,Charlton Athletic FC,,'04/11/2026
+Preston North End FC,H,47,-,-,-,38,West Bromwich Albion FC,,'04/18/2026
+Preston North End FC,A,47,-,-,-,38,Birmingham City FC,,'04/22/2026
+Preston North End FC,A,47,-,-,-,38,Sheffield United FC,,'04/25/2026
+Preston North End FC,H,47,-,-,-,38,Southampton FC,,'05/02/2026
 Queens Park Rangers FC,H,1,1,-,1,1,Preston North End FC,D,'08/09/2025
 Queens Park Rangers FC,A,1,1,-,2,2,Watford FC,L,'08/16/2025
 Queens Park Rangers FC,A,1,1,-,7,3,Coventry City FC,L,'08/23/2025
@@ -765,22 +765,22 @@ Sheffield United FC,A,32,0,-,1,36,Southampton FC,L,'01/21/2026
 Sheffield United FC,H,35,3,-,1,39,Ipswich Town FC,W,'01/24/2026
 Sheffield United FC,A,36,1,-,1,40,Millwall FC,D,'01/31/2026
 Sheffield United FC,H,39,3,-,1,43,Oxford United FC,W,'02/03/2026
-Sheffield United FC,H,39,-,-,-,43,Middlesbrough FC,,'02/09/2026
-Sheffield United FC,A,39,-,-,-,43,Portsmouth FC,,'02/14/2026
-Sheffield United FC,H,39,-,-,-,43,Sheffield Wednesday FC,,'02/22/2026
-Sheffield United FC,H,39,-,-,-,43,Coventry City FC,,'02/25/2026
-Sheffield United FC,A,39,-,-,-,43,Queens Park Rangers FC,,'02/28/2026
-Sheffield United FC,H,39,-,-,-,43,West Bromwich Albion FC,,'03/07/2026
-Sheffield United FC,A,39,-,-,-,43,Norwich City FC,,'03/10/2026
-Sheffield United FC,A,39,-,-,-,43,Birmingham City FC,,'03/14/2026
-Sheffield United FC,H,39,-,-,-,43,Wrexham AFC,,'03/21/2026
-Sheffield United FC,H,39,-,-,-,43,Swansea City AFC,,'04/03/2026
-Sheffield United FC,A,39,-,-,-,43,Bristol City FC,,'04/06/2026
-Sheffield United FC,H,39,-,-,-,43,Hull City AFC,,'04/11/2026
-Sheffield United FC,A,39,-,-,-,43,Watford FC,,'04/18/2026
-Sheffield United FC,H,39,-,-,-,43,Blackburn Rovers FC,,'04/22/2026
-Sheffield United FC,H,39,-,-,-,43,Preston North End FC,,'04/25/2026
-Sheffield United FC,A,39,-,-,-,43,Derby County FC,,'05/02/2026
+Sheffield United FC,H,39,1,-,2,44,Middlesbrough FC,L,'02/09/2026
+Sheffield United FC,A,39,-,-,-,44,Portsmouth FC,,'02/14/2026
+Sheffield United FC,H,39,-,-,-,44,Sheffield Wednesday FC,,'02/22/2026
+Sheffield United FC,H,39,-,-,-,44,Coventry City FC,,'02/25/2026
+Sheffield United FC,A,39,-,-,-,44,Queens Park Rangers FC,,'02/28/2026
+Sheffield United FC,H,39,-,-,-,44,West Bromwich Albion FC,,'03/07/2026
+Sheffield United FC,A,39,-,-,-,44,Norwich City FC,,'03/10/2026
+Sheffield United FC,A,39,-,-,-,44,Birmingham City FC,,'03/14/2026
+Sheffield United FC,H,39,-,-,-,44,Wrexham AFC,,'03/21/2026
+Sheffield United FC,H,39,-,-,-,44,Swansea City AFC,,'04/03/2026
+Sheffield United FC,A,39,-,-,-,44,Bristol City FC,,'04/06/2026
+Sheffield United FC,H,39,-,-,-,44,Hull City AFC,,'04/11/2026
+Sheffield United FC,A,39,-,-,-,44,Watford FC,,'04/18/2026
+Sheffield United FC,H,39,-,-,-,44,Blackburn Rovers FC,,'04/22/2026
+Sheffield United FC,H,39,-,-,-,44,Preston North End FC,,'04/25/2026
+Sheffield United FC,A,39,-,-,-,44,Derby County FC,,'05/02/2026
 Sheffield Wednesday FC,A,0,1,-,2,1,Leicester City FC,L,'08/10/2025
 Sheffield Wednesday FC,H,0,0,-,3,1,Stoke City FC,L,'08/16/2025
 Sheffield Wednesday FC,A,1,2,-,2,3,Wrexham AFC,D,'08/23/2025
@@ -811,7 +811,7 @@ Sheffield Wednesday FC,H,11,0,-,2,18,Birmingham City FC,L,'01/20/2026
 Sheffield Wednesday FC,A,11,0,-,2,18,Bristol City FC,L,'01/24/2026
 Sheffield Wednesday FC,H,11,0,-,1,18,Wrexham AFC,L,'01/31/2026
 Sheffield Wednesday FC,A,11,0,-,1,18,Blackburn Rovers FC,L,'02/03/2026
-Sheffield Wednesday FC,A,11,-,-,-,18,Swansea City AFC,,'02/08/2026
+Sheffield Wednesday FC,A,11,0,-,4,18,Swansea City AFC,L,'02/08/2026
 Sheffield Wednesday FC,H,11,-,-,-,18,Millwall FC,,'02/14/2026
 Sheffield Wednesday FC,A,11,-,-,-,18,Sheffield United FC,,'02/22/2026
 Sheffield Wednesday FC,A,11,-,-,-,18,Norwich City FC,,'02/25/2026
@@ -857,22 +857,22 @@ Southampton FC,H,33,1,-,2,39,Hull City AFC,L,'01/17/2026
 Southampton FC,H,36,1,-,0,40,Sheffield United FC,W,'01/21/2026
 Southampton FC,A,37,1,-,1,41,Portsmouth FC,D,'01/25/2026
 Southampton FC,A,40,2,-,0,43,Stoke City FC,W,'01/31/2026
-Southampton FC,H,40,-,-,-,43,Watford FC,,'02/07/2026
-Southampton FC,A,40,-,-,-,43,Leicester City FC,,'02/10/2026
-Southampton FC,H,40,-,-,-,43,Charlton Athletic FC,,'02/21/2026
-Southampton FC,H,40,-,-,-,43,Queens Park Rangers FC,,'02/24/2026
-Southampton FC,A,40,-,-,-,43,Sheffield Wednesday FC,,'02/28/2026
-Southampton FC,H,40,-,-,-,43,Norwich City FC,,'03/07/2026
-Southampton FC,A,40,-,-,-,43,West Bromwich Albion FC,,'03/11/2026
-Southampton FC,A,40,-,-,-,43,Coventry City FC,,'03/14/2026
-Southampton FC,H,40,-,-,-,43,Oxford United FC,,'03/21/2026
-Southampton FC,H,40,-,-,-,43,Ipswich Town FC,,'04/03/2026
-Southampton FC,A,40,-,-,-,43,Wrexham AFC,,'04/06/2026
-Southampton FC,H,40,-,-,-,43,Derby County FC,,'04/11/2026
-Southampton FC,A,40,-,-,-,43,Swansea City AFC,,'04/18/2026
-Southampton FC,H,40,-,-,-,43,Bristol City FC,,'04/21/2026
-Southampton FC,H,40,-,-,-,43,Blackburn Rovers FC,,'04/25/2026
-Southampton FC,A,40,-,-,-,43,Preston North End FC,,'05/02/2026
+Southampton FC,H,43,1,-,0,44,Watford FC,W,'02/07/2026
+Southampton FC,A,43,-,-,-,44,Leicester City FC,,'02/10/2026
+Southampton FC,H,43,-,-,-,44,Charlton Athletic FC,,'02/21/2026
+Southampton FC,H,43,-,-,-,44,Queens Park Rangers FC,,'02/24/2026
+Southampton FC,A,43,-,-,-,44,Sheffield Wednesday FC,,'02/28/2026
+Southampton FC,H,43,-,-,-,44,Norwich City FC,,'03/07/2026
+Southampton FC,A,43,-,-,-,44,West Bromwich Albion FC,,'03/11/2026
+Southampton FC,A,43,-,-,-,44,Coventry City FC,,'03/14/2026
+Southampton FC,H,43,-,-,-,44,Oxford United FC,,'03/21/2026
+Southampton FC,H,43,-,-,-,44,Ipswich Town FC,,'04/03/2026
+Southampton FC,A,43,-,-,-,44,Wrexham AFC,,'04/06/2026
+Southampton FC,H,43,-,-,-,44,Derby County FC,,'04/11/2026
+Southampton FC,A,43,-,-,-,44,Swansea City AFC,,'04/18/2026
+Southampton FC,H,43,-,-,-,44,Bristol City FC,,'04/21/2026
+Southampton FC,H,43,-,-,-,44,Blackburn Rovers FC,,'04/25/2026
+Southampton FC,A,43,-,-,-,44,Preston North End FC,,'05/02/2026
 Stoke City FC,H,3,3,-,1,3,Derby County FC,W,'08/09/2025
 Stoke City FC,A,6,3,-,0,6,Sheffield Wednesday FC,W,'08/16/2025
 Stoke City FC,A,9,2,-,1,8,Southampton FC,W,'08/23/2025
@@ -903,22 +903,22 @@ Stoke City FC,H,41,0,-,0,32,Queens Park Rangers FC,D,'01/17/2026
 Stoke City FC,H,41,1,-,2,33,Middlesbrough FC,L,'01/21/2026
 Stoke City FC,A,42,1,-,1,34,Birmingham City FC,D,'01/24/2026
 Stoke City FC,H,42,0,-,2,34,Southampton FC,L,'01/31/2026
-Stoke City FC,A,42,-,-,-,34,West Bromwich Albion FC,,'02/07/2026
-Stoke City FC,A,42,-,-,-,34,Charlton Athletic FC,,'02/11/2026
-Stoke City FC,H,42,-,-,-,34,Leicester City FC,,'02/21/2026
-Stoke City FC,H,42,-,-,-,34,Oxford United FC,,'02/25/2026
-Stoke City FC,A,42,-,-,-,34,Coventry City FC,,'02/28/2026
-Stoke City FC,A,42,-,-,-,34,Swansea City AFC,,'03/07/2026
-Stoke City FC,H,42,-,-,-,34,Ipswich Town FC,,'03/10/2026
-Stoke City FC,H,42,-,-,-,34,Watford FC,,'03/14/2026
-Stoke City FC,A,42,-,-,-,34,Preston North End FC,,'03/21/2026
-Stoke City FC,H,42,-,-,-,34,Sheffield Wednesday FC,,'04/03/2026
-Stoke City FC,A,42,-,-,-,34,Derby County FC,,'04/06/2026
-Stoke City FC,H,42,-,-,-,34,Blackburn Rovers FC,,'04/11/2026
-Stoke City FC,A,42,-,-,-,34,Wrexham AFC,,'04/18/2026
-Stoke City FC,H,42,-,-,-,34,Millwall FC,,'04/21/2026
-Stoke City FC,H,42,-,-,-,34,Portsmouth FC,,'04/25/2026
-Stoke City FC,A,42,-,-,-,34,Bristol City FC,,'05/02/2026
+Stoke City FC,A,43,0,-,0,34,West Bromwich Albion FC,D,'02/07/2026
+Stoke City FC,A,43,-,-,-,34,Charlton Athletic FC,,'02/11/2026
+Stoke City FC,H,43,-,-,-,34,Leicester City FC,,'02/21/2026
+Stoke City FC,H,43,-,-,-,34,Oxford United FC,,'02/25/2026
+Stoke City FC,A,43,-,-,-,34,Coventry City FC,,'02/28/2026
+Stoke City FC,A,43,-,-,-,34,Swansea City AFC,,'03/07/2026
+Stoke City FC,H,43,-,-,-,34,Ipswich Town FC,,'03/10/2026
+Stoke City FC,H,43,-,-,-,34,Watford FC,,'03/14/2026
+Stoke City FC,A,43,-,-,-,34,Preston North End FC,,'03/21/2026
+Stoke City FC,H,43,-,-,-,34,Sheffield Wednesday FC,,'04/03/2026
+Stoke City FC,A,43,-,-,-,34,Derby County FC,,'04/06/2026
+Stoke City FC,H,43,-,-,-,34,Blackburn Rovers FC,,'04/11/2026
+Stoke City FC,A,43,-,-,-,34,Wrexham AFC,,'04/18/2026
+Stoke City FC,H,43,-,-,-,34,Millwall FC,,'04/21/2026
+Stoke City FC,H,43,-,-,-,34,Portsmouth FC,,'04/25/2026
+Stoke City FC,A,43,-,-,-,34,Bristol City FC,,'05/02/2026
 Swansea City AFC,A,0,0,-,1,0,Middlesbrough FC,L,'08/09/2025
 Swansea City AFC,H,3,1,-,0,1,Sheffield United FC,W,'08/16/2025
 Swansea City AFC,H,4,1,-,1,2,Watford FC,D,'08/23/2025
@@ -949,22 +949,22 @@ Swansea City AFC,H,33,1,-,1,28,Birmingham City FC,D,'01/17/2026
 Swansea City AFC,H,36,3,-,1,31,Blackburn Rovers FC,W,'01/20/2026
 Swansea City AFC,A,36,1,-,2,32,Hull City AFC,L,'01/24/2026
 Swansea City AFC,A,39,2,-,0,34,Watford FC,W,'01/31/2026
-Swansea City AFC,H,39,-,-,-,34,Sheffield Wednesday FC,,'02/08/2026
-Swansea City AFC,A,39,-,-,-,34,Derby County FC,,'02/14/2026
-Swansea City AFC,H,39,-,-,-,34,Bristol City FC,,'02/21/2026
-Swansea City AFC,H,39,-,-,-,34,Preston North End FC,,'02/24/2026
-Swansea City AFC,A,39,-,-,-,34,Ipswich Town FC,,'02/28/2026
-Swansea City AFC,H,39,-,-,-,34,Stoke City FC,,'03/07/2026
-Swansea City AFC,A,39,-,-,-,34,Portsmouth FC,,'03/10/2026
-Swansea City AFC,A,39,-,-,-,34,Wrexham AFC,,'03/14/2026
-Swansea City AFC,H,39,-,-,-,34,Coventry City FC,,'03/21/2026
-Swansea City AFC,A,39,-,-,-,34,Sheffield United FC,,'04/03/2026
-Swansea City AFC,H,39,-,-,-,34,Middlesbrough FC,,'04/06/2026
-Swansea City AFC,A,39,-,-,-,34,Leicester City FC,,'04/11/2026
-Swansea City AFC,H,39,-,-,-,34,Southampton FC,,'04/18/2026
-Swansea City AFC,A,39,-,-,-,34,Queens Park Rangers FC,,'04/21/2026
-Swansea City AFC,A,39,-,-,-,34,Norwich City FC,,'04/25/2026
-Swansea City AFC,H,39,-,-,-,34,Charlton Athletic FC,,'05/02/2026
+Swansea City AFC,H,42,4,-,0,38,Sheffield Wednesday FC,W,'02/08/2026
+Swansea City AFC,A,42,-,-,-,38,Derby County FC,,'02/14/2026
+Swansea City AFC,H,42,-,-,-,38,Bristol City FC,,'02/21/2026
+Swansea City AFC,H,42,-,-,-,38,Preston North End FC,,'02/24/2026
+Swansea City AFC,A,42,-,-,-,38,Ipswich Town FC,,'02/28/2026
+Swansea City AFC,H,42,-,-,-,38,Stoke City FC,,'03/07/2026
+Swansea City AFC,A,42,-,-,-,38,Portsmouth FC,,'03/10/2026
+Swansea City AFC,A,42,-,-,-,38,Wrexham AFC,,'03/14/2026
+Swansea City AFC,H,42,-,-,-,38,Coventry City FC,,'03/21/2026
+Swansea City AFC,A,42,-,-,-,38,Sheffield United FC,,'04/03/2026
+Swansea City AFC,H,42,-,-,-,38,Middlesbrough FC,,'04/06/2026
+Swansea City AFC,A,42,-,-,-,38,Leicester City FC,,'04/11/2026
+Swansea City AFC,H,42,-,-,-,38,Southampton FC,,'04/18/2026
+Swansea City AFC,A,42,-,-,-,38,Queens Park Rangers FC,,'04/21/2026
+Swansea City AFC,A,42,-,-,-,38,Norwich City FC,,'04/25/2026
+Swansea City AFC,H,42,-,-,-,38,Charlton Athletic FC,,'05/02/2026
 Watford FC,A,0,0,-,1,0,Charlton Athletic FC,L,'08/09/2025
 Watford FC,H,3,2,-,1,2,Queens Park Rangers FC,W,'08/16/2025
 Watford FC,A,4,1,-,1,3,Swansea City AFC,D,'08/23/2025
@@ -995,7 +995,7 @@ Watford FC,H,42,1,-,1,38,Portsmouth FC,D,'01/21/2026
 Watford FC,A,43,1,-,1,39,Blackburn Rovers FC,D,'01/24/2026
 Watford FC,H,43,0,-,2,39,Swansea City AFC,L,'01/31/2026
 Watford FC,A,44,0,-,0,39,Hull City AFC,D,'02/03/2026
-Watford FC,A,44,-,-,-,39,Southampton FC,,'02/07/2026
+Watford FC,A,44,0,-,1,39,Southampton FC,L,'02/07/2026
 Watford FC,A,44,-,-,-,39,Preston North End FC,,'02/14/2026
 Watford FC,H,44,-,-,-,39,Derby County FC,,'02/21/2026
 Watford FC,H,44,-,-,-,39,Ipswich Town FC,,'02/24/2026
@@ -1041,22 +1041,22 @@ West Bromwich Albion FC,H,31,2,-,3,31,Middlesbrough FC,L,'01/16/2026
 West Bromwich Albion FC,H,31,0,-,5,31,Norwich City FC,L,'01/20/2026
 West Bromwich Albion FC,A,32,1,-,1,32,Derby County FC,D,'01/23/2026
 West Bromwich Albion FC,A,32,0,-,3,32,Portsmouth FC,L,'01/31/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Stoke City FC,,'02/07/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Birmingham City FC,,'02/10/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Coventry City FC,,'02/21/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Charlton Athletic FC,,'02/24/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Oxford United FC,,'02/28/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Sheffield United FC,,'03/07/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Southampton FC,,'03/11/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Hull City AFC,,'03/14/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Bristol City FC,,'03/21/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Wrexham AFC,,'04/03/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Blackburn Rovers FC,,'04/06/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Millwall FC,,'04/11/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Preston North End FC,,'04/18/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Watford FC,,'04/21/2026
-West Bromwich Albion FC,H,32,-,-,-,32,Ipswich Town FC,,'04/25/2026
-West Bromwich Albion FC,A,32,-,-,-,32,Sheffield Wednesday FC,,'05/02/2026
+West Bromwich Albion FC,H,33,0,-,0,32,Stoke City FC,D,'02/07/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Birmingham City FC,,'02/10/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Coventry City FC,,'02/21/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Charlton Athletic FC,,'02/24/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Oxford United FC,,'02/28/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Sheffield United FC,,'03/07/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Southampton FC,,'03/11/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Hull City AFC,,'03/14/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Bristol City FC,,'03/21/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Wrexham AFC,,'04/03/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Blackburn Rovers FC,,'04/06/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Millwall FC,,'04/11/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Preston North End FC,,'04/18/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Watford FC,,'04/21/2026
+West Bromwich Albion FC,H,33,-,-,-,32,Ipswich Town FC,,'04/25/2026
+West Bromwich Albion FC,A,33,-,-,-,32,Sheffield Wednesday FC,,'05/02/2026
 Wrexham AFC,A,0,1,-,2,1,Southampton FC,L,'08/09/2025
 Wrexham AFC,H,0,2,-,3,3,West Bromwich Albion FC,L,'08/16/2025
 Wrexham AFC,H,1,2,-,2,5,Sheffield Wednesday FC,D,'08/23/2025
@@ -1087,7 +1087,7 @@ Wrexham AFC,H,40,1,-,2,39,Norwich City FC,L,'01/17/2026
 Wrexham AFC,H,41,1,-,1,40,Leicester City FC,D,'01/20/2026
 Wrexham AFC,A,44,3,-,2,43,Queens Park Rangers FC,W,'01/24/2026
 Wrexham AFC,A,47,1,-,0,44,Sheffield Wednesday FC,W,'01/31/2026
-Wrexham AFC,H,47,-,-,-,44,Millwall FC,,'02/07/2026
+Wrexham AFC,H,47,0,-,2,44,Millwall FC,L,'02/07/2026
 Wrexham AFC,A,47,-,-,-,44,Bristol City FC,,'02/17/2026
 Wrexham AFC,H,47,-,-,-,44,Ipswich Town FC,,'02/21/2026
 Wrexham AFC,H,47,-,-,-,44,Portsmouth FC,,'02/24/2026
