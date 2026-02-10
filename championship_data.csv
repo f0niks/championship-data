@@ -30,7 +30,7 @@ Birmingham City FC,A,38,2,-,0,38,Sheffield Wednesday FC,W,'01/20/2026
 Birmingham City FC,H,39,1,-,1,39,Stoke City FC,D,'01/24/2026
 Birmingham City FC,A,42,2,-,0,41,Oxford United FC,W,'01/31/2026
 Birmingham City FC,H,45,2,-,1,43,Leicester City FC,W,'02/07/2026
-Birmingham City FC,H,45,-,-,-,43,West Bromwich Albion FC,,'02/10/2026
+Birmingham City FC,H,45,0,-,0,43,West Bromwich Albion FC,,'02/10/2026
 Birmingham City FC,A,45,-,-,-,43,Norwich City FC,,'02/21/2026
 Birmingham City FC,A,45,-,-,-,43,Millwall FC,,'02/25/2026
 Birmingham City FC,H,45,-,-,-,43,Middlesbrough FC,,'03/02/2026
@@ -398,7 +398,7 @@ Leicester City FC,A,38,1,-,1,39,Wrexham AFC,D,'01/20/2026
 Leicester City FC,H,38,1,-,2,40,Oxford United FC,L,'01/24/2026
 Leicester City FC,H,38,0,-,2,40,Charlton Athletic FC,L,'01/31/2026
 Leicester City FC,A,38,1,-,2,41,Birmingham City FC,L,'02/07/2026
-Leicester City FC,H,38,-,-,-,41,Southampton FC,,'02/10/2026
+Leicester City FC,H,38,3,-,0,41,Southampton FC,,'02/10/2026
 Leicester City FC,A,38,-,-,-,41,Stoke City FC,,'02/21/2026
 Leicester City FC,A,38,-,-,-,41,Middlesbrough FC,,'02/24/2026
 Leicester City FC,H,38,-,-,-,41,Norwich City FC,,'02/28/2026
@@ -536,7 +536,7 @@ Norwich City FC,A,30,5,-,0,35,West Bromwich Albion FC,W,'01/20/2026
 Norwich City FC,H,33,2,-,1,37,Coventry City FC,W,'01/26/2026
 Norwich City FC,A,33,0,-,1,37,Middlesbrough FC,L,'01/31/2026
 Norwich City FC,H,36,2,-,0,39,Blackburn Rovers FC,W,'02/07/2026
-Norwich City FC,A,36,-,-,-,39,Oxford United FC,,'02/10/2026
+Norwich City FC,A,36,2,-,0,39,Oxford United FC,,'02/10/2026
 Norwich City FC,H,36,-,-,-,39,Birmingham City FC,,'02/21/2026
 Norwich City FC,H,36,-,-,-,39,Sheffield Wednesday FC,,'02/25/2026
 Norwich City FC,A,36,-,-,-,39,Leicester City FC,,'02/28/2026
@@ -582,7 +582,7 @@ Oxford United FC,A,27,2,-,1,27,Leicester City FC,W,'01/24/2026
 Oxford United FC,H,27,0,-,2,27,Birmingham City FC,L,'01/31/2026
 Oxford United FC,A,27,1,-,3,28,Sheffield United FC,L,'02/03/2026
 Oxford United FC,A,28,0,-,0,28,Coventry City FC,D,'02/07/2026
-Oxford United FC,H,28,-,-,-,28,Norwich City FC,,'02/10/2026
+Oxford United FC,H,28,0,-,2,28,Norwich City FC,,'02/10/2026
 Oxford United FC,A,28,-,-,-,28,Middlesbrough FC,,'02/21/2026
 Oxford United FC,A,28,-,-,-,28,Stoke City FC,,'02/25/2026
 Oxford United FC,H,28,-,-,-,28,West Bromwich Albion FC,,'02/28/2026
@@ -858,7 +858,7 @@ Southampton FC,H,36,1,-,0,40,Sheffield United FC,W,'01/21/2026
 Southampton FC,A,37,1,-,1,41,Portsmouth FC,D,'01/25/2026
 Southampton FC,A,40,2,-,0,43,Stoke City FC,W,'01/31/2026
 Southampton FC,H,43,1,-,0,44,Watford FC,W,'02/07/2026
-Southampton FC,A,43,-,-,-,44,Leicester City FC,,'02/10/2026
+Southampton FC,A,43,0,-,3,44,Leicester City FC,,'02/10/2026
 Southampton FC,H,43,-,-,-,44,Charlton Athletic FC,,'02/21/2026
 Southampton FC,H,43,-,-,-,44,Queens Park Rangers FC,,'02/24/2026
 Southampton FC,A,43,-,-,-,44,Sheffield Wednesday FC,,'02/28/2026
@@ -1042,7 +1042,7 @@ West Bromwich Albion FC,H,31,0,-,5,31,Norwich City FC,L,'01/20/2026
 West Bromwich Albion FC,A,32,1,-,1,32,Derby County FC,D,'01/23/2026
 West Bromwich Albion FC,A,32,0,-,3,32,Portsmouth FC,L,'01/31/2026
 West Bromwich Albion FC,H,33,0,-,0,32,Stoke City FC,D,'02/07/2026
-West Bromwich Albion FC,A,33,-,-,-,32,Birmingham City FC,,'02/10/2026
+West Bromwich Albion FC,A,33,0,-,0,32,Birmingham City FC,,'02/10/2026
 West Bromwich Albion FC,H,33,-,-,-,32,Coventry City FC,,'02/21/2026
 West Bromwich Albion FC,H,33,-,-,-,32,Charlton Athletic FC,,'02/24/2026
 West Bromwich Albion FC,A,33,-,-,-,32,Oxford United FC,,'02/28/2026
